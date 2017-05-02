@@ -10,27 +10,27 @@ body {
 
 .top {
 	height: 80px;
-	border: 2px solid white;
+	border-bottom: 2px solid black;
 	background-color: grey;
-	width: 140%;
+
 }
 
 .topbar {
 	background-color: ;
-	border: 2px solid red;
+	border-bottom: 2px solid red;
 	height: 80px;
 }
 
 .name_box {
-	background-color: indigo
-	font-size: 36px;
+	background-color: black;
+	border: 2px solid black;
+	height: 100%;
+	width: 33%;
+	float: left;
 }
 
 .name {
 	text-align: center;
-	background-color: indigo;
-	float:left;
-	width: 33%;
 }
 
 .navigation {
@@ -71,22 +71,38 @@ body {
 .about {
 	clear: both;
 	padding: 20px;
-	width: 600px;
+	width: 55%;
 	float: left;
 	border: 2px solid white;
+	margin: 20px ;
 }
 
-.about_me-header {
-	background: yellow;
+.about_me_header {
+	border-bottom: 3px solid red;
+	height: ;
+}
+
+.about_picture {
+	border: 2px solid pink;
+	float: left;
+	width: 50%;
+	height: 40%;
 }
 
 .contact {
 	float: left;
+	width: 35%;
 	border: 2px solid white;
 	text-align: center;
+	margin: 20px ;
+}
+
+.contact_header {
+	border-bottom: 2px solid red;
 }
 
 .footer {
 	clear: both;
 	text-align: center;
+	margin-top: 20px;
 }
