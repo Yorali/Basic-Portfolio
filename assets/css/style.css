@@ -1,0 +1,29 @@
+.name {
+	text-align: center;
+	float:left;
+	width: 33%;
+}
+
+.navigation {
+	float: right;
+	width: 66%;
+}
+
+.nav_item_1 {
+	width: 23%;
+	float: right;
+}
+
+.nav_item_2 {
+	width: 23%;
+	float: right;
+}
+
+.nav_item_3 {
+	width: 23%;
+	float: right;
+}
+
+.about {
+	clear: both;
+}
