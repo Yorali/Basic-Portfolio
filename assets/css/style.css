@@ -83,10 +83,15 @@ body {
 }
 
 .about_picture {
-	border: 2px solid pink;
+	border: 2px none pink;
 	float: left;
 	width: 50%;
 	height: 40%;
+}
+
+.piano_rei {
+	width: 393px;
+	height: 460px;
 }
 
 .contact {
