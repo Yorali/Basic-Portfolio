@@ -27,6 +27,7 @@ body {
 	height: 100%;
 	width: 33%;
 	float: left;
+	padding: 1rem;
 }
 
 .name {
